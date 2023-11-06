@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vadymchornyi/Development/University-OOP-Labs/Lab 4/Lab 4.csproj": {}
+    "/Users/vadymchornyi/Development/University-OOP-Labs/Lab 5/Lab 5.csproj": {}
   },
   "projects": {
-    "/Users/vadymchornyi/Development/University-OOP-Labs/Lab 4/Lab 4.csproj": {
+    "/Users/vadymchornyi/Development/University-OOP-Labs/Lab 5/Lab 5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vadymchornyi/Development/University-OOP-Labs/Lab 4/Lab 4.csproj",
-        "projectName": "Lab 4",
-        "projectPath": "/Users/vadymchornyi/Development/University-OOP-Labs/Lab 4/Lab 4.csproj",
+        "projectUniqueName": "/Users/vadymchornyi/Development/University-OOP-Labs/Lab 5/Lab 5.csproj",
+        "projectName": "Lab 5",
+        "projectPath": "/Users/vadymchornyi/Development/University-OOP-Labs/Lab 5/Lab 5.csproj",
         "packagesPath": "/Users/vadymchornyi/.nuget/packages/",
-        "outputPath": "/Users/vadymchornyi/Development/University-OOP-Labs/Lab 4/obj/",
+        "outputPath": "/Users/vadymchornyi/Development/University-OOP-Labs/Lab 5/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vadymchornyi/.nuget/NuGet/NuGet.Config"
