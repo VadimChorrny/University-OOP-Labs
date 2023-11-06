@@ -1,0 +1,15 @@
+/Users/vadymchornyi/Development/University-OOP-Labs/Lab 6/obj/Debug/net6.0/Lab 6.csproj.AssemblyReference.cache
+/Users/vadymchornyi/Development/University-OOP-Labs/Lab 6/obj/Debug/net6.0/Lab 6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadymchornyi/Development/University-OOP-Labs/Lab 6/obj/Debug/net6.0/Lab 6.AssemblyInfoInputs.cache
+/Users/vadymchornyi/Development/University-OOP-Labs/Lab 6/obj/Debug/net6.0/Lab 6.AssemblyInfo.cs
+/Users/vadymchornyi/Development/University-OOP-Labs/Lab 6/obj/Debug/net6.0/Lab 6.csproj.CoreCompileInputs.cache
+/Users/vadymchornyi/Development/University-OOP-Labs/Lab 6/bin/Debug/net6.0/Lab 6
+/Users/vadymchornyi/Development/University-OOP-Labs/Lab 6/bin/Debug/net6.0/Lab 6.deps.json
+/Users/vadymchornyi/Development/University-OOP-Labs/Lab 6/bin/Debug/net6.0/Lab 6.runtimeconfig.json
+/Users/vadymchornyi/Development/University-OOP-Labs/Lab 6/bin/Debug/net6.0/Lab 6.dll
+/Users/vadymchornyi/Development/University-OOP-Labs/Lab 6/bin/Debug/net6.0/Lab 6.pdb
+/Users/vadymchornyi/Development/University-OOP-Labs/Lab 6/obj/Debug/net6.0/Lab 6.dll
+/Users/vadymchornyi/Development/University-OOP-Labs/Lab 6/obj/Debug/net6.0/refint/Lab 6.dll
+/Users/vadymchornyi/Development/University-OOP-Labs/Lab 6/obj/Debug/net6.0/Lab 6.pdb
+/Users/vadymchornyi/Development/University-OOP-Labs/Lab 6/obj/Debug/net6.0/Lab 6.genruntimeconfig.cache
+/Users/vadymchornyi/Development/University-OOP-Labs/Lab 6/obj/Debug/net6.0/ref/Lab 6.dll
